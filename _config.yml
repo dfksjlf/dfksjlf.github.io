@@ -94,7 +94,7 @@ theme_mode: dark # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "C:\Users\phy31\dfksjlf.github.io\assets\img\favicons\mysugata.jpg"
+avatar: <img src="C:\Users\phy31\dfksjlf.github.io\assets\img\favicons\mysugata.jpg" />
 
 # boolean type, the global switch for TOC in posts.
 toc: true
